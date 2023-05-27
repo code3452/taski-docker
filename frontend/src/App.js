@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import axios, { AxiosRequestConfig, AxiosPromise, AxiosResponse } from "axios";
+import axios from "axios";
 import TaskEditModal from "./components/TaskEditModal";
 import Task from "./components/Task";
 import TabList from "./components/TabList";
